@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RabbitMQ on Byte Banter</title>
+    <link>https://bytebanter.github.io/tags/rabbitmq/</link>
+    <description>Recent content in RabbitMQ on Byte Banter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright>
+    <lastBuildDate>Fri, 17 Feb 2023 21:06:56 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/rabbitmq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with RabbitMQ</title>
+      <link>https://bytebanter.github.io/posts/0011-getting-started-with-rabbitmq/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/posts/0011-getting-started-with-rabbitmq/</guid>
+      <description>Getting Started with RabbitMQ RabbitMQ is an open-source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP). It is written in the Erlang programming language and is designed to reliably manage and route messages between different applications and services. In this article, we will go over the basics of RabbitMQ and how to get started using it.
+What is RabbitMQ? RabbitMQ is a message broker, which is a type of software that acts as a middleman between applications or services that need to communicate with each other.</description>
+      <content:encoded><![CDATA[<h1 id="getting-started-with-rabbitmq">Getting Started with RabbitMQ</h1>
+<p>RabbitMQ is an open-source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP). It is written in the Erlang programming language and is designed to reliably manage and route messages between different applications and services. In this article, we will go over the basics of RabbitMQ and how to get started using it.</p>
+<h2 id="what-is-rabbitmq">What is RabbitMQ?</h2>
+<p>RabbitMQ is a message broker, which is a type of software that acts as a middleman between applications or services that need to communicate with each other. It is used to facilitate communication between different applications and services, while ensuring that messages are delivered reliably and in the correct order. RabbitMQ is a popular choice for message brokers because it is open-source, highly scalable, and supports a wide variety of protocols, including AMQP, MQTT, and STOMP.</p>
+<h2 id="setting-up-rabbitmq">Setting Up RabbitMQ</h2>
+<p>Setting up RabbitMQ is relatively straightforward. First, you will need to install the RabbitMQ server on the machine where you want to use it. This can be done using the package manager for your operating system, or by downloading the source code and compiling it yourself. Once the server is installed, you will need to create a user account and configure the server to use the correct authentication and security settings.</p>
+<h2 id="connecting-to-rabbitmq">Connecting to RabbitMQ</h2>
+<p>Once the server is installed and configured, you will need to connect to it. This can be done using a variety of different clients, including the RabbitMQ Management Console, a web-based GUI that allows you to manage and monitor your RabbitMQ server. You can also use the RabbitMQ Java Client Library, which provides an easy-to-use API for connecting to the RabbitMQ server.</p>
+<h2 id="using-rabbitmq">Using RabbitMQ</h2>
+<p>Once you have connected to the RabbitMQ server, you can begin using it to route messages between applications and services. RabbitMQ supports a variety of protocols, including AMQP, MQTT, and STOMP, and provides a variety of features to make message routing easier, such as message queues, exchanges, and bindings.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>RabbitMQ is a powerful message broker that can be used to facilitate communication between different applications and services. It is open-source, highly scalable, and supports a wide variety of protocols. Setting up and connecting to RabbitMQ is relatively straightforward, and once you are connected, you can begin using it to route messages between applications and services.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

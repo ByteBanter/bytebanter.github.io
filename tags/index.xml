@@ -5,6 +5,478 @@
     <link>https://bytebanter.github.io/tags/</link>
     <description>Recent content in Tags on Byte Banter</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://bytebanter.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright>
+    <lastBuildDate>Fri, 17 Feb 2023 21:06:56 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon Web Services</title>
+      <link>https://bytebanter.github.io/tags/amazon-web-services/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/amazon-web-services/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Ansible</title>
+      <link>https://bytebanter.github.io/tags/ansible/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/ansible/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Apache Kafka</title>
+      <link>https://bytebanter.github.io/tags/apache-kafka/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/apache-kafka/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Asynchronous</title>
+      <link>https://bytebanter.github.io/tags/asynchronous/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/asynchronous/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>AWS</title>
+      <link>https://bytebanter.github.io/tags/aws/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/aws/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Cache</title>
+      <link>https://bytebanter.github.io/tags/cache/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/cache/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>https://bytebanter.github.io/tags/cloud/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/cloud/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Containers</title>
+      <link>https://bytebanter.github.io/tags/containers/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/containers/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Continuous Deployment</title>
+      <link>https://bytebanter.github.io/tags/continuous-deployment/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/continuous-deployment/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Continuous Integration</title>
+      <link>https://bytebanter.github.io/tags/continuous-integration/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/continuous-integration/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://bytebanter.github.io/tags/database/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/database/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Databases</title>
+      <link>https://bytebanter.github.io/tags/databases/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/databases/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://bytebanter.github.io/tags/docker/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/docker/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Docker Compose</title>
+      <link>https://bytebanter.github.io/tags/docker-compose/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/docker-compose/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Github Actions</title>
+      <link>https://bytebanter.github.io/tags/github-actions/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/github-actions/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Graph</title>
+      <link>https://bytebanter.github.io/tags/graph/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/graph/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>gRPC</title>
+      <link>https://bytebanter.github.io/tags/grpc/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/grpc/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://bytebanter.github.io/tags/hugo/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/hugo/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>In Memory</title>
+      <link>https://bytebanter.github.io/tags/in-memory/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/in-memory/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Infrastructure</title>
+      <link>https://bytebanter.github.io/tags/infrastructure/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/infrastructure/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Infrstructure</title>
+      <link>https://bytebanter.github.io/tags/infrstructure/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/infrstructure/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Jenkins</title>
+      <link>https://bytebanter.github.io/tags/jenkins/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/jenkins/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://bytebanter.github.io/tags/kubernetes/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/kubernetes/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://bytebanter.github.io/tags/linux/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/linux/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Low Latency</title>
+      <link>https://bytebanter.github.io/tags/low-latency/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/low-latency/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>LRU</title>
+      <link>https://bytebanter.github.io/tags/lru/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/lru/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://bytebanter.github.io/tags/markdown/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/markdown/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Messaging Queue</title>
+      <link>https://bytebanter.github.io/tags/messaging-queue/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/messaging-queue/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>https://bytebanter.github.io/tags/mysql/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/mysql/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Neo4j</title>
+      <link>https://bytebanter.github.io/tags/neo4j/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/neo4j/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>NoSQL</title>
+      <link>https://bytebanter.github.io/tags/nosql/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/nosql/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Operating System</title>
+      <link>https://bytebanter.github.io/tags/operating-system/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/operating-system/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Orchestration</title>
+      <link>https://bytebanter.github.io/tags/orchestration/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/orchestration/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Platform</title>
+      <link>https://bytebanter.github.io/tags/platform/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/platform/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Protobuf</title>
+      <link>https://bytebanter.github.io/tags/protobuf/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/protobuf/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Protocol</title>
+      <link>https://bytebanter.github.io/tags/protocol/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/protocol/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>RabbitMQ</title>
+      <link>https://bytebanter.github.io/tags/rabbitmq/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/rabbitmq/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>RAM</title>
+      <link>https://bytebanter.github.io/tags/ram/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/ram/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Redis</title>
+      <link>https://bytebanter.github.io/tags/redis/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/redis/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Remote Procedure Call</title>
+      <link>https://bytebanter.github.io/tags/remote-procedure-call/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/remote-procedure-call/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>RPC</title>
+      <link>https://bytebanter.github.io/tags/rpc/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/rpc/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Sequential Query Language</title>
+      <link>https://bytebanter.github.io/tags/sequential-query-language/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/sequential-query-language/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://bytebanter.github.io/tags/sql/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/sql/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Static Site Generator</title>
+      <link>https://bytebanter.github.io/tags/static-site-generator/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/static-site-generator/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Terraform</title>
+      <link>https://bytebanter.github.io/tags/terraform/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/terraform/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>YAML</title>
+      <link>https://bytebanter.github.io/tags/yaml/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/yaml/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>CI/CD</title>
+      <link>https://bytebanter.github.io/tags/ci/cd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bytebanter.github.io/tags/ci/cd/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

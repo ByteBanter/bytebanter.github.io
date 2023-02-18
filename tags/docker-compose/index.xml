@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docker Compose on Byte Banter</title>
+    <link>https://bytebanter.github.io/tags/docker-compose/</link>
+    <description>Recent content in Docker Compose on Byte Banter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright>
+    <lastBuildDate>Fri, 17 Feb 2023 21:06:56 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/docker-compose/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Docker</title>
+      <link>https://bytebanter.github.io/posts/0009-getting-started-with-docker/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/posts/0009-getting-started-with-docker/</guid>
+      <description>Getting Started with Docker Docker is a containerization platform that allows developers to package applications with all of their dependencies into a single, portable container. It makes it easier to deploy applications quickly and reliably across different computing environments. In this article, we&amp;rsquo;ll provide a brief overview of Docker and explain how to get started with it.
+What is Docker? Docker is a containerization platform that allows developers to package applications with all of their dependencies into a single, portable container.</description>
+      <content:encoded><![CDATA[<h1 id="getting-started-with-docker">Getting Started with Docker</h1>
+<p>Docker is a containerization platform that allows developers to package applications with all of their dependencies into a single, portable container. It makes it easier to deploy applications quickly and reliably across different computing environments. In this article, we&rsquo;ll provide a brief overview of Docker and explain how to get started with it.</p>
+<h2 id="what-is-docker">What is Docker?</h2>
+<p>Docker is a containerization platform that allows developers to package applications with all of their dependencies into a single, portable container. This container can then be used to deploy applications on any platform, regardless of the underlying operating system. Docker containers are lightweight, portable, and self-contained, making them ideal for deploying applications quickly and reliably.</p>
+<h2 id="benefits-of-using-docker">Benefits of Using Docker</h2>
+<p>Docker provides several benefits to developers and system administrators. It makes it easier to deploy applications quickly and reliably across different computing environments. Additionally, Docker containers are lightweight and portable, making them easy to manage and scale. Finally, Docker containers are self-contained, making it easier to isolate and secure applications.</p>
+<h2 id="getting-started-with-docker-1">Getting Started with Docker</h2>
+<p>Getting started with Docker is easy. First, you&rsquo;ll need to install the Docker engine, which is available for Windows, macOS, and Linux. Once the Docker engine is installed, you&rsquo;ll need to create a Dockerfile, which is a text file that contains instructions on how to build a Docker image.</p>
+<p>Once the Dockerfile is created, you can build the Docker image using the <code>docker build</code> command. This will create a Docker image that can be used to deploy applications on any platform. Finally, you can deploy the Docker image using the <code>docker run</code> command.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Docker is a powerful containerization platform that makes it easier to deploy applications quickly and reliably across different computing environments. Getting started with Docker is easy, and the benefits of using it are numerous. If you&rsquo;re looking to deploy applications quickly and reliably, Docker is a great choice.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Infrstructure on Byte Banter</title>
+    <link>https://bytebanter.github.io/tags/infrstructure/</link>
+    <description>Recent content in Infrstructure on Byte Banter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright>
+    <lastBuildDate>Fri, 17 Feb 2023 21:06:56 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/infrstructure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Linux</title>
+      <link>https://bytebanter.github.io/posts/0014-getting-started-with-linux/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/posts/0014-getting-started-with-linux/</guid>
+      <description>Getting Started with Linux Linux is an open-source operating system that has been around since the early 90s. It is a powerful and reliable operating system that is used by millions of people around the world. It is a great choice for those who want to get started with a powerful and stable operating system.
+Installing Linux The first step to getting started with Linux is to install it on your computer.</description>
+      <content:encoded><![CDATA[<h1 id="getting-started-with-linux">Getting Started with Linux</h1>
+<p>Linux is an open-source operating system that has been around since the early 90s. It is a powerful and reliable operating system that is used by millions of people around the world. It is a great choice for those who want to get started with a powerful and stable operating system.</p>
+<h2 id="installing-linux">Installing Linux</h2>
+<p>The first step to getting started with Linux is to install it on your computer. This can be done in a variety of ways, depending on your hardware and the version of Linux you want to use. The most common method is to download an ISO image of the Linux distribution you want to use and burn it to a CD or DVD. You can then boot your computer from the CD or DVD and install the Linux operating system.</p>
+<h2 id="setting-up-your-system">Setting Up Your System</h2>
+<p>Once you have Linux installed, you will need to set up your system. This includes setting up your user accounts, configuring the system settings, and installing any applications you need. You can use the graphical user interface to make most of these changes, or you can use the command line if you are more comfortable with it.</p>
+<h2 id="using-the-command-line">Using the Command Line</h2>
+<p>The command line is a powerful tool that can be used to do almost anything on a Linux system. It is a powerful way to manage and configure your system, and it is also a great way to learn about Linux. There are many commands that can be used to do various tasks, and it is important to learn about them so you can use them effectively.</p>
+<h2 id="using-the-graphical-user-interface">Using the Graphical User Interface</h2>
+<p>The graphical user interface (GUI) is the most common way to interact with a Linux system. It is a graphical way to manage and configure your system, and it is also a great way to learn about Linux. The GUI is easy to use and can be used to do most tasks quickly and easily.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Linux is a powerful and reliable operating system that is used by millions of people around the world. It is a great choice for those who want to get started with a powerful and stable operating system. Installing Linux is easy, and setting up your system is also easy. The command line and the graphical user interface are both great ways to manage and configure your system, and they are also great ways to learn about Linux.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

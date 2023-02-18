@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Continuous Integration on Byte Banter</title>
+    <link>https://bytebanter.github.io/tags/continuous-integration/</link>
+    <description>Recent content in Continuous Integration on Byte Banter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright>
+    <lastBuildDate>Fri, 17 Feb 2023 21:06:56 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/continuous-integration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Terraform</title>
+      <link>https://bytebanter.github.io/posts/0002-getting-started-with-terraform/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/posts/0002-getting-started-with-terraform/</guid>
+      <description>Getting Started with Terraform Terraform is an open-source infrastructure as code software tool created by HashiCorp. It enables users to define and provision a data center infrastructure using a high-level configuration language known as Hashicorp Configuration Language (HCL). It is a powerful tool that allows users to build, change, and version control their infrastructure with ease.
+What is Terraform? Terraform is an open-source tool for building, changing, and versioning infrastructure safely and efficiently.</description>
+      <content:encoded><![CDATA[<h1 id="getting-started-with-terraform">Getting Started with Terraform</h1>
+<p>Terraform is an open-source infrastructure as code software tool created by HashiCorp. It enables users to define and provision a data center infrastructure using a high-level configuration language known as Hashicorp Configuration Language (HCL). It is a powerful tool that allows users to build, change, and version control their infrastructure with ease.</p>
+<h2 id="what-is-terraform">What is Terraform?</h2>
+<p>Terraform is an open-source tool for building, changing, and versioning infrastructure safely and efficiently. It can manage existing and popular service providers as well as custom in-house solutions. It is a declarative language that allows users to define the desired state of their infrastructure, and Terraform will make the necessary changes to reach the desired state.</p>
+<h2 id="installation">Installation</h2>
+<p>Installation of Terraform is simple and can be done in a few steps. First, download the Terraform binary from the <a href="https://www.hashicorp.com/downloads">HashiCorp website</a>. Once downloaded, extract the binary and add it to your PATH. You can also install Terraform using a package manager.</p>
+<h2 id="writing-configuration-files">Writing Configuration Files</h2>
+<p>Configuration files are written in the HashiCorp Configuration Language (HCL). HCL is a declarative language that allows users to define the desired state of their infrastructure. These files can be written in JSON or YAML, but HCL is the recommended language for writing configuration files.</p>
+<h2 id="provisioning-resources">Provisioning Resources</h2>
+<p>Once the configuration files are written, Terraform can be used to provision the desired infrastructure. To do this, run the <code>terraform init</code> command to initialize the Terraform environment. Then, run the <code>terraform plan</code> command to review the changes that will be made to the infrastructure. Finally, run the <code>terraform apply</code> command to provision the resources.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Terraform is a powerful open-source tool that allows users to define and provision their infrastructure using a high-level configuration language. It is simple to install and provides a powerful way to provision resources.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Getting Started with Jenkins</title>
+      <link>https://bytebanter.github.io/posts/0005-getting-started-with-jenkins/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/posts/0005-getting-started-with-jenkins/</guid>
+      <description>Getting Started with Jenkins Jenkins is an open-source automation server that can be used to automate tasks such as building, testing, and deploying software. It is written in Java and can be used to create continuous integration and continuous delivery pipelines. In this article, we will look at how to get started with Jenkins and how to use it to create your own automated pipelines.
+Installing Jenkins The first step is to install Jenkins on your system.</description>
+      <content:encoded><![CDATA[<h1 id="getting-started-with-jenkins">Getting Started with Jenkins</h1>
+<p>Jenkins is an open-source automation server that can be used to automate tasks such as building, testing, and deploying software. It is written in Java and can be used to create continuous integration and continuous delivery pipelines. In this article, we will look at how to get started with Jenkins and how to use it to create your own automated pipelines.</p>
+<h2 id="installing-jenkins">Installing Jenkins</h2>
+<p>The first step is to install Jenkins on your system. This can be done by downloading the Jenkins binary from the Jenkins website and running it on your system. You can also use a package manager to install Jenkins on your system. Once Jenkins is installed, you can access the Jenkins web interface by navigating to http://localhost:8080.</p>
+<h2 id="creating-a-jenkins-job">Creating a Jenkins Job</h2>
+<p>Once Jenkins is installed, you can create a new Jenkins job. A Jenkins job is a set of tasks that can be run on a regular basis. A job can be configured to run on a schedule or when certain conditions are met. To create a Jenkins job, you can click on the &ldquo;New Item&rdquo; button in the Jenkins web interface. You can then enter a name for the job and select the type of job you want to create.</p>
+<h2 id="configuring-the-job">Configuring the Job</h2>
+<p>Once the job is created, you can configure the job by setting up the tasks that need to be executed. This can include tasks such as running a script, building a Docker image, or running a test suite. You can also specify the environment that the job will run in, such as the operating system, the version of Java, or the version of the software being tested.</p>
+<h2 id="running-the-job">Running the Job</h2>
+<p>Once the job is configured, you can run it by clicking the &ldquo;Build Now&rdquo; button. This will start the job and execute the tasks that have been configured. You can also set up the job to run on a schedule or when certain conditions are met.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>In this article, we looked at how to get started with Jenkins and how to use it to create automated pipelines. We looked at how to install Jenkins, create a Jenkins job, configure the job, and run the job. Jenkins is a powerful automation server that can be used to automate tasks such as building, testing, and deploying software.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Getting Started with Github Actions</title>
+      <link>https://bytebanter.github.io/posts/0006-getting-started-with-github-actions/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/posts/0006-getting-started-with-github-actions/</guid>
+      <description>Getting Started with Github Actions Github Actions is a powerful automation tool that allows you to create custom workflows and automate tasks. In this article, we will discuss how to get started with Github Actions.
+Prerequisites Before you can start using Github Actions, you need to have a Github account and a repository to work with.
+Setup Once you have a Github account and a repository, you can create a workflow for your repository.</description>
+      <content:encoded><![CDATA[<h1 id="getting-started-with-github-actions">Getting Started with Github Actions</h1>
+<p>Github Actions is a powerful automation tool that allows you to create custom workflows and automate tasks. In this article, we will discuss how to get started with Github Actions.</p>
+<h2 id="prerequisites">Prerequisites</h2>
+<p>Before you can start using Github Actions, you need to have a Github account and a repository to work with.</p>
+<h2 id="setup">Setup</h2>
+<p>Once you have a Github account and a repository, you can create a workflow for your repository. To do this, go to the Actions tab in your repository and click the &ldquo;New workflow&rdquo; button.</p>
+<h2 id="writing-your-workflow">Writing Your Workflow</h2>
+<p>The workflow editor will open and you can start writing your workflow. Workflows are written in YAML, and you can use the editor to write your workflow.</p>
+<h2 id="adding-actions">Adding Actions</h2>
+<p>Once your workflow is written, you can add actions to it. Actions are commands that you can run in your workflow. Actions can be found in the Actions tab in your repository.</p>
+<h2 id="testing-your-workflow">Testing Your Workflow</h2>
+<p>Once you have added your actions, you can test your workflow by running it. To do this, go to the Actions tab in your repository and click the &ldquo;Run workflow&rdquo; button.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Github Actions is a powerful automation tool that allows you to create custom workflows and automate tasks. In this article, we discussed how to get started with Github Actions.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

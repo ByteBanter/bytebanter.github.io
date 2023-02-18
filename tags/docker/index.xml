@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docker on Byte Banter</title>
+    <link>https://bytebanter.github.io/tags/docker/</link>
+    <description>Recent content in Docker on Byte Banter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright>
+    <lastBuildDate>Fri, 17 Feb 2023 21:06:56 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Kubernetes</title>
+      <link>https://bytebanter.github.io/posts/0001-getting-started-with-kubernetes/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/posts/0001-getting-started-with-kubernetes/</guid>
+      <description>Getting Started with Kubernetes Kubernetes is an open-source container-orchestration system for automating deployment, scaling, and management of containerized applications. It is designed to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts. In this article, we will discuss the basics of Kubernetes and how to get started with it.
+What is Kubernetes? Kubernetes is an open-source container-orchestration system for automating deployment, scaling, and management of containerized applications.</description>
+      <content:encoded><![CDATA[<h1 id="getting-started-with-kubernetes">Getting Started with Kubernetes</h1>
+<p>Kubernetes is an open-source container-orchestration system for automating deployment, scaling, and management of containerized applications. It is designed to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts. In this article, we will discuss the basics of Kubernetes and how to get started with it.</p>
+<h2 id="what-is-kubernetes">What is Kubernetes?</h2>
+<p>Kubernetes is an open-source container-orchestration system for automating deployment, scaling, and management of containerized applications. It is designed to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts. It is a platform for managing containerized applications across multiple hosts, providing basic mechanisms for deployment, maintenance, and scaling of applications.</p>
+<h2 id="benefits-of-kubernetes">Benefits of Kubernetes</h2>
+<p>Kubernetes provides a number of benefits for managing containerized applications, including:</p>
+<ul>
+<li>Automated deployment and scaling of applications</li>
+<li>Self-healing capabilities</li>
+<li>Automated rollouts and rollbacks</li>
+<li>Service discovery and load balancing</li>
+<li>Storage orchestration</li>
+<li>Automated batch execution</li>
+</ul>
+<h2 id="getting-started-with-kubernetes-1">Getting Started with Kubernetes</h2>
+<p>To get started with Kubernetes, you need to first set up a Kubernetes cluster. This involves setting up the nodes, creating the network, and configuring the nodes. Once the cluster is set up, you can then deploy applications to the cluster.</p>
+<p>To deploy an application to the cluster, you will need to create a deployment manifest. This is a YAML file that describes the application that you want to deploy. This includes details such as the number of replicas, the container images to use, and any environment variables that need to be set.</p>
+<p>Once the deployment manifest is created, you can then deploy the application to the cluster using the kubectl command-line tool. This will create the necessary resources in the cluster and start the application.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Kubernetes is a powerful container-orchestration system that makes it easy to deploy and manage containerized applications. It provides a number of benefits, including automated deployment, scaling, and self-healing capabilities. To get started with Kubernetes, you need to first set up a Kubernetes cluster and then deploy applications to the cluster using the kubectl command-line tool.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Getting Started with Docker</title>
+      <link>https://bytebanter.github.io/posts/0009-getting-started-with-docker/</link>
+      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
+      
+      <guid>https://bytebanter.github.io/posts/0009-getting-started-with-docker/</guid>
+      <description>Getting Started with Docker Docker is a containerization platform that allows developers to package applications with all of their dependencies into a single, portable container. It makes it easier to deploy applications quickly and reliably across different computing environments. In this article, we&amp;rsquo;ll provide a brief overview of Docker and explain how to get started with it.
+What is Docker? Docker is a containerization platform that allows developers to package applications with all of their dependencies into a single, portable container.</description>
+      <content:encoded><![CDATA[<h1 id="getting-started-with-docker">Getting Started with Docker</h1>
+<p>Docker is a containerization platform that allows developers to package applications with all of their dependencies into a single, portable container. It makes it easier to deploy applications quickly and reliably across different computing environments. In this article, we&rsquo;ll provide a brief overview of Docker and explain how to get started with it.</p>
+<h2 id="what-is-docker">What is Docker?</h2>
+<p>Docker is a containerization platform that allows developers to package applications with all of their dependencies into a single, portable container. This container can then be used to deploy applications on any platform, regardless of the underlying operating system. Docker containers are lightweight, portable, and self-contained, making them ideal for deploying applications quickly and reliably.</p>
+<h2 id="benefits-of-using-docker">Benefits of Using Docker</h2>
+<p>Docker provides several benefits to developers and system administrators. It makes it easier to deploy applications quickly and reliably across different computing environments. Additionally, Docker containers are lightweight and portable, making them easy to manage and scale. Finally, Docker containers are self-contained, making it easier to isolate and secure applications.</p>
+<h2 id="getting-started-with-docker-1">Getting Started with Docker</h2>
+<p>Getting started with Docker is easy. First, you&rsquo;ll need to install the Docker engine, which is available for Windows, macOS, and Linux. Once the Docker engine is installed, you&rsquo;ll need to create a Dockerfile, which is a text file that contains instructions on how to build a Docker image.</p>
+<p>Once the Dockerfile is created, you can build the Docker image using the <code>docker build</code> command. This will create a Docker image that can be used to deploy applications on any platform. Finally, you can deploy the Docker image using the <code>docker run</code> command.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Docker is a powerful containerization platform that makes it easier to deploy applications quickly and reliably across different computing environments. Getting started with Docker is easy, and the benefits of using it are numerous. If you&rsquo;re looking to deploy applications quickly and reliably, Docker is a great choice.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
