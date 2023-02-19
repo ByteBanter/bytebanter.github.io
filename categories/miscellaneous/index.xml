@@ -1,36 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Miscellaneous on Byte Banter</title>
-    <link>https://bytebanter.github.io/categories/miscellaneous/</link>
-    <description>Recent content in Miscellaneous on Byte Banter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright>
-    <lastBuildDate>Fri, 17 Feb 2023 21:06:56 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/categories/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://bytebanter.github.io/posts/0007-getting-started-with-hugo/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0007-getting-started-with-hugo/</guid>
-      <description>Getting Started with Hugo Hugo is a modern static website generator that can help you quickly create a website with a great user experience. It is a fast and powerful open source framework that is easy to use and extend. In this article, we will discuss how to get started with Hugo.
-Installing Hugo The first step to getting started with Hugo is to install it. Hugo is available for Windows, Mac, and Linux.</description>
-      <content:encoded><![CDATA[<h1 id="getting-started-with-hugo">Getting Started with Hugo</h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Miscellaneous on Byte Banter</title><link>https://bytebanter.github.io/categories/miscellaneous/</link><description>Recent content in Miscellaneous on Byte Banter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright><lastBuildDate>Mon, 09 Jan 2023 00:05:30 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/categories/miscellaneous/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with Hugo</title><link>https://bytebanter.github.io/posts/23-01-09-getting-started-with-hugo/</link><pubDate>Mon, 09 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-09-getting-started-with-hugo/</guid><description>Getting Started with Hugo Hugo is a modern static website generator that can help you quickly create a website with a great user experience. It is a fast and powerful open source framework that is easy to use and extend. In this article, we will discuss how to get started with Hugo.
+Installing Hugo The first step to getting started with Hugo is to install it. Hugo is available for Windows, Mac, and Linux.</description><content:encoded><![CDATA[<h1 id="getting-started-with-hugo">Getting Started with Hugo</h1>
 <p>Hugo is a modern static website generator that can help you quickly create a website with a great user experience. It is a fast and powerful open source framework that is easy to use and extend. In this article, we will discuss how to get started with Hugo.</p>
-<h2 id="installing-hugo">Installing Hugo</h2>
+<h1 id="installing-hugo">Installing Hugo</h1>
 <p>The first step to getting started with Hugo is to install it. Hugo is available for Windows, Mac, and Linux. You can download the latest version from the <a href="https://gohugo.io/getting-started/installing/">Hugo website</a>.</p>
-<h2 id="creating-a-site">Creating a Site</h2>
+<h1 id="creating-a-site">Creating a Site</h1>
 <p>Once you have installed Hugo, you can create a new site using the <code>hugo new site</code> command. This will create a new folder with the necessary files and folders for your new site.</p>
-<h2 id="adding-content">Adding Content</h2>
+<h1 id="adding-content">Adding Content</h1>
 <p>Next, you can add content to your site. Hugo uses Markdown files for content. You can create a new Markdown file by running the <code>hugo new &lt;filename&gt;</code> command. This will create a new file with the <code>.md</code> extension in the <code>content</code> folder.</p>
-<h2 id="adding-a-theme">Adding a Theme</h2>
+<h1 id="adding-a-theme">Adding a Theme</h1>
 <p>You can also add a theme to your site. Hugo provides a number of themes that you can choose from. You can find themes in the <a href="https://themes.gohugo.io/">Hugo Themes</a> directory. To add a theme, you can run the <code>hugo --theme &lt;themename&gt;</code> command.</p>
-<h2 id="building-your-site">Building Your Site</h2>
+<h1 id="building-your-site">Building Your Site</h1>
 <p>Finally, you can build your site by running the <code>hugo</code> command. This will generate the HTML files for your site and put them in the <code>public</code> folder. You can then upload these files to a web server to make your site live.</p>
 <p>That&rsquo;s it! You now know how to get started with Hugo.</p>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

@@ -1,57 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Database on Byte Banter</title>
-    <link>https://bytebanter.github.io/tags/database/</link>
-    <description>Recent content in Database on Byte Banter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright>
-    <lastBuildDate>Fri, 17 Feb 2023 21:06:56 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/database/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Getting Started with Redis</title>
-      <link>https://bytebanter.github.io/posts/0012-getting-started-with-redis/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0012-getting-started-with-redis/</guid>
-      <description>Getting Started with Redis Redis is an open-source, in-memory data structure store used as a database, cache, and message broker. It is a popular choice for web applications, due to its speed and scalability. In this article, we will discuss the basics of getting started with Redis.
-Installation The first step in getting started with Redis is to install it on your system. Redis is available for most operating systems, including Windows, Mac, and Linux.</description>
-      <content:encoded><![CDATA[<h1 id="getting-started-with-redis">Getting Started with Redis</h1>
-<p>Redis is an open-source, in-memory data structure store used as a database, cache, and message broker. It is a popular choice for web applications, due to its speed and scalability. In this article, we will discuss the basics of getting started with Redis.</p>
-<h2 id="installation">Installation</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Database on Byte Banter</title><link>https://bytebanter.github.io/tags/database/</link><description>Recent content in Database on Byte Banter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright><lastBuildDate>Wed, 04 Jan 2023 00:05:30 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/database/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with Redis</title><link>https://bytebanter.github.io/posts/23-01-04-getting-started-with-redis/</link><pubDate>Wed, 04 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-04-getting-started-with-redis/</guid><description>Redis is an open-source, in-memory data structure store used as a database, cache, and message broker. It is a popular choice for web applications, due to its speed and scalability. In this article, we will discuss the basics of getting started with Redis.
+Installation The first step in getting started with Redis is to install it on your system. Redis is available for most operating systems, including Windows, Mac, and Linux.</description><content:encoded><![CDATA[<p>Redis is an open-source, in-memory data structure store used as a database, cache, and message broker. It is a popular choice for web applications, due to its speed and scalability. In this article, we will discuss the basics of getting started with Redis.</p>
+<h1 id="installation">Installation</h1>
 <p>The first step in getting started with Redis is to install it on your system. Redis is available for most operating systems, including Windows, Mac, and Linux. Instructions for installing Redis can be found in the <a href="https://redis.io/topics/quickstart">Redis documentation</a>.</p>
-<h2 id="configuration">Configuration</h2>
+<h1 id="configuration">Configuration</h1>
 <p>Once Redis is installed, it must be configured. The configuration file is located in the <code>/etc/redis/redis.conf</code> directory. The configuration options are detailed in the <a href="https://redis.io/topics/config">Redis configuration documentation</a>.</p>
-<h2 id="connecting-to-redis">Connecting to Redis</h2>
+<h1 id="connecting-to-redis">Connecting to Redis</h1>
 <p>Once Redis is installed and configured, you can connect to it using a Redis client. The Redis client is a command-line tool that allows you to interact with Redis. The Redis client is available for most operating systems and can be downloaded from the <a href="https://redis.io/download">Redis download page</a>.</p>
-<h2 id="commands">Commands</h2>
+<h1 id="commands">Commands</h1>
 <p>Once you are connected to Redis, you can start using Redis commands. The Redis command reference is available in the <a href="https://redis.io/commands">Redis command documentation</a>.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h1 id="conclusion">Conclusion</h1>
 <p>Getting started with Redis is easy. Redis is a powerful and versatile data structure store that can be used for a variety of applications. With the right configuration and commands, you can start taking advantage of the power of Redis.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Getting Started with MySQL</title>
-      <link>https://bytebanter.github.io/posts/0015-getting-started-with-mysql/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0015-getting-started-with-mysql/</guid>
-      <description>Getting Started with MySQL MySQL is a popular open source relational database management system (RDBMS). It is used in many applications, ranging from web applications to embedded systems. In this article, we&amp;rsquo;ll discuss what MySQL is, how to install it, and how to get started using it.
-What is MySQL? MySQL is a relational database management system (RDBMS). It is a software system that allows you to store, manipulate, and query data stored in a database.</description>
-      <content:encoded><![CDATA[<h1 id="getting-started-with-mysql">Getting Started with MySQL</h1>
-<p>MySQL is a popular open source relational database management system (RDBMS). It is used in many applications, ranging from web applications to embedded systems. In this article, we&rsquo;ll discuss what MySQL is, how to install it, and how to get started using it.</p>
-<h2 id="what-is-mysql">What is MySQL?</h2>
+]]></content:encoded></item><item><title>Getting Started with MySQL</title><link>https://bytebanter.github.io/posts/23-01-01-getting-started-with-mysql/</link><pubDate>Sun, 01 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-01-getting-started-with-mysql/</guid><description>MySQL is a popular open source relational database management system (RDBMS). It is used in many applications, ranging from web applications to embedded systems. In this article, we&amp;rsquo;ll discuss what MySQL is, how to install it, and how to get started using it.
+What is MySQL? MySQL is a relational database management system (RDBMS). It is a software system that allows you to store, manipulate, and query data stored in a database.</description><content:encoded><![CDATA[<p>MySQL is a popular open source relational database management system (RDBMS). It is used in many applications, ranging from web applications to embedded systems. In this article, we&rsquo;ll discuss what MySQL is, how to install it, and how to get started using it.</p>
+<h1 id="what-is-mysql">What is MySQL?</h1>
 <p>MySQL is a relational database management system (RDBMS). It is a software system that allows you to store, manipulate, and query data stored in a database. It is used by many applications, from web applications to embedded systems. MySQL is a powerful tool that can help you manage large amounts of data efficiently.</p>
-<h2 id="installing-mysql">Installing MySQL</h2>
+<h1 id="installing-mysql">Installing MySQL</h1>
 <p>MySQL can be installed on a variety of operating systems, including Linux, Windows, and Mac OS. The installation process is relatively straightforward and can be completed in just a few steps.</p>
-<h2 id="getting-started-with-mysql-1">Getting Started with MySQL</h2>
+<h1 id="getting-started-with-mysql">Getting Started with MySQL</h1>
 <p>Once you have MySQL installed, you can begin using it. To get started, you need to create a database and create tables. This can be done using the MySQL command line client or an online GUI such as phpMyAdmin. Once you have created your database and tables, you can begin entering data into the tables.</p>
 <p>MySQL also provides a variety of tools for querying data from the database. These tools allow you to filter, sort, and aggregate data from the database.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h1 id="conclusion">Conclusion</h1>
 <p>MySQL is a powerful and versatile relational database management system. It is used in many applications, from web applications to embedded systems. Installing and getting started with MySQL is relatively straightforward, and it provides a variety of tools for querying data from the database.</p>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

@@ -1,73 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Development on Byte Banter</title>
-    <link>https://bytebanter.github.io/categories/development/</link>
-    <description>Recent content in Development on Byte Banter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright>
-    <lastBuildDate>Fri, 17 Feb 2023 21:06:56 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Getting Started with Neo4j</title>
-      <link>https://bytebanter.github.io/posts/0004-getting-started-with-neo4j/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0004-getting-started-with-neo4j/</guid>
-      <description>Introduction to Neo4j Getting Started With Neo4j Neo4j is a graph database management system (DBMS) that provides an efficient, scalable way of storing and querying graph data. It is used to store and manage large amounts of data, and is often used in applications that require complex relationships between data. In this article, we will discuss how to get started with Neo4j and the basics of using it.
-Prerequisites Before getting started with Neo4j, you should have a basic understanding of databases and their concepts.</description>
-      <content:encoded><![CDATA[<h1 id="introduction-to-neo4j">Introduction to Neo4j</h1>
-<h1 id="getting-started-with-neo4j">Getting Started With Neo4j</h1>
-<p>Neo4j is a graph database management system (DBMS) that provides an efficient, scalable way of storing and querying graph data. It is used to store and manage large amounts of data, and is often used in applications that require complex relationships between data. In this article, we will discuss how to get started with Neo4j and the basics of using it.</p>
-<h2 id="prerequisites">Prerequisites</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Development on Byte Banter</title><link>https://bytebanter.github.io/categories/development/</link><description>Recent content in Development on Byte Banter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright><lastBuildDate>Thu, 12 Jan 2023 00:05:30 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/categories/development/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with Neo4j</title><link>https://bytebanter.github.io/posts/23-01-12-getting-started-with-neo4j/</link><pubDate>Thu, 12 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-12-getting-started-with-neo4j/</guid><description>Neo4j is a graph database management system (DBMS) that provides an efficient, scalable way of storing and querying graph data. It is used to store and manage large amounts of data, and is often used in applications that require complex relationships between data. In this article, we will discuss how to get started with Neo4j and the basics of using it.
+Prerequisites Before getting started with Neo4j, you should have a basic understanding of databases and their concepts.</description><content:encoded><![CDATA[<p>Neo4j is a graph database management system (DBMS) that provides an efficient, scalable way of storing and querying graph data. It is used to store and manage large amounts of data, and is often used in applications that require complex relationships between data. In this article, we will discuss how to get started with Neo4j and the basics of using it.</p>
+<h1 id="prerequisites">Prerequisites</h1>
 <p>Before getting started with Neo4j, you should have a basic understanding of databases and their concepts. You should also have a good understanding of the query language Cypher and be familiar with the syntax.</p>
-<h2 id="installation">Installation</h2>
+<h1 id="installation">Installation</h1>
 <p>To install Neo4j, you can download the appropriate version for your operating system from the official website. Once downloaded, you can follow the installation instructions to complete the installation.</p>
-<h2 id="creating-a-graph">Creating a Graph</h2>
+<h1 id="creating-a-graph">Creating a Graph</h1>
 <p>Once Neo4j is installed, you can create a graph by using the <code>CREATE</code> command. This command will create a new graph in the database and will allow you to add nodes and relationships to it.</p>
-<h2 id="querying-a-graph">Querying a Graph</h2>
+<h1 id="querying-a-graph">Querying a Graph</h1>
 <p>Once you have created a graph, you can query it using the Cypher query language. Cypher is a powerful query language that allows you to write complex queries to retrieve data from the graph.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h1 id="conclusion">Conclusion</h1>
 <p>Neo4j is a powerful graph database management system that provides an efficient way of storing and querying graph data. With Neo4j, you can create graphs and query them using the Cypher query language.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Getting Started with AWS</title>
-      <link>https://bytebanter.github.io/posts/0008-getting-started-with-aws/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0008-getting-started-with-aws/</guid>
-      <description>Getting Started with AWS AWS (Amazon Web Services) is a cloud computing platform that provides a wide range of services, including compute, storage, databases, networking, analytics, and more. It is a reliable, cost-effective solution for businesses of all sizes and can be used to quickly and easily build, deploy, and manage applications in the cloud. In this article, we&amp;rsquo;ll walk you through the basics of getting started with AWS.
-Creating an AWS Account The first step to using AWS is to create an account.</description>
-      <content:encoded><![CDATA[<h1 id="getting-started-with-aws">Getting Started with AWS</h1>
-<p>AWS (Amazon Web Services) is a cloud computing platform that provides a wide range of services, including compute, storage, databases, networking, analytics, and more. It is a reliable, cost-effective solution for businesses of all sizes and can be used to quickly and easily build, deploy, and manage applications in the cloud. In this article, we&rsquo;ll walk you through the basics of getting started with AWS.</p>
-<h2 id="creating-an-aws-account">Creating an AWS Account</h2>
+]]></content:encoded></item><item><title>Getting Started with AWS</title><link>https://bytebanter.github.io/posts/23-01-08-getting-started-with-aws/</link><pubDate>Sun, 08 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-08-getting-started-with-aws/</guid><description>AWS (Amazon Web Services) is a cloud computing platform that provides a wide range of services, including compute, storage, databases, networking, analytics, and more. It is a reliable, cost-effective solution for businesses of all sizes and can be used to quickly and easily build, deploy, and manage applications in the cloud. In this article, we&amp;rsquo;ll walk you through the basics of getting started with AWS.
+Creating an AWS Account The first step to using AWS is to create an account.</description><content:encoded><![CDATA[<p>AWS (Amazon Web Services) is a cloud computing platform that provides a wide range of services, including compute, storage, databases, networking, analytics, and more. It is a reliable, cost-effective solution for businesses of all sizes and can be used to quickly and easily build, deploy, and manage applications in the cloud. In this article, we&rsquo;ll walk you through the basics of getting started with AWS.</p>
+<h1 id="creating-an-aws-account">Creating an AWS Account</h1>
 <p>The first step to using AWS is to create an account. You can do this by visiting the <a href="https://aws.amazon.com/">AWS website</a>. Once you have created an account, you can access the AWS Management Console, which is the main interface for managing your AWS resources.</p>
-<h2 id="setting-up-your-environment">Setting Up Your Environment</h2>
+<h1 id="setting-up-your-environment">Setting Up Your Environment</h1>
 <p>Once you have an AWS account, you can begin setting up your environment. This includes setting up security groups, choosing a region, and configuring your storage and databases. You can also use the AWS Command Line Interface (CLI) to manage your resources.</p>
-<h2 id="deploying-your-applications">Deploying Your Applications</h2>
+<h1 id="deploying-your-applications">Deploying Your Applications</h1>
 <p>Once your environment is set up, you can begin deploying your applications. AWS provides a variety of tools and services to help you deploy and manage your applications. These include Amazon Elastic Compute Cloud (EC2), Amazon Elastic Container Service (ECS), and AWS Lambda.</p>
-<h2 id="monitoring-and-optimizing">Monitoring and Optimizing</h2>
+<h1 id="monitoring-and-optimizing">Monitoring and Optimizing</h1>
 <p>Once your applications are deployed, you can monitor and optimize them using AWS services such as Amazon CloudWatch, Amazon CloudFormation, and AWS Config. These services can help you identify potential issues and take corrective action.</p>
-<h2 id="getting-support">Getting Support</h2>
+<h1 id="getting-support">Getting Support</h1>
 <p>AWS provides a range of support options, including documentation, tutorials, and community forums. You can also contact AWS Support directly if you need help with any of your AWS services.</p>
 <p>Getting started with AWS is easy and can help you quickly and easily build, deploy, and manage applications in the cloud. With the right tools and services, you can optimize your applications and get the most out of your AWS environment.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Getting Started with Apache Kafka</title>
-      <link>https://bytebanter.github.io/posts/0010-getting-started-with-apache-kafka/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0010-getting-started-with-apache-kafka/</guid>
-      <description>Getting Started with Apache Kafka Apache Kafka is an open-source streaming platform used for building real-time data pipelines and streaming applications. It is a distributed and fault-tolerant message broker that enables communication between producers, consumers, and other applications. In this guide, we will discuss the basics of Kafka and how to get started with it.
+]]></content:encoded></item><item><title>Getting Started with Apache Kafka</title><link>https://bytebanter.github.io/posts/23-01-06-getting-started-with-apache-kafka/</link><pubDate>Fri, 06 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-06-getting-started-with-apache-kafka/</guid><description>Apache Kafka is an open-source streaming platform used for building real-time data pipelines and streaming applications. It is a distributed and fault-tolerant message broker that enables communication between producers, consumers, and other applications. In this guide, we will discuss the basics of Kafka and how to get started with it.
 Prerequisites Before getting started, you should have a basic understanding of the following concepts:
-Distributed systems Message brokers Streaming applications You should also have a working knowledge of Java, as Kafka is written in Java.</description>
-      <content:encoded><![CDATA[<h1 id="getting-started-with-apache-kafka">Getting Started with Apache Kafka</h1>
-<p>Apache Kafka is an open-source streaming platform used for building real-time data pipelines and streaming applications. It is a distributed and fault-tolerant message broker that enables communication between producers, consumers, and other applications. In this guide, we will discuss the basics of Kafka and how to get started with it.</p>
-<h2 id="prerequisites">Prerequisites</h2>
+Distributed systems Message brokers Streaming applications You should also have a working knowledge of Java, as Kafka is written in Java.</description><content:encoded><![CDATA[<p>Apache Kafka is an open-source streaming platform used for building real-time data pipelines and streaming applications. It is a distributed and fault-tolerant message broker that enables communication between producers, consumers, and other applications. In this guide, we will discuss the basics of Kafka and how to get started with it.</p>
+<h1 id="prerequisites">Prerequisites</h1>
 <p>Before getting started, you should have a basic understanding of the following concepts:</p>
 <ul>
 <li>Distributed systems</li>
@@ -75,114 +34,66 @@ Distributed systems Message brokers Streaming applications You should also have 
 <li>Streaming applications</li>
 </ul>
 <p>You should also have a working knowledge of Java, as Kafka is written in Java.</p>
-<h2 id="installing-apache-kafka">Installing Apache Kafka</h2>
+<h1 id="installing-apache-kafka">Installing Apache Kafka</h1>
 <p>The first step is to install Apache Kafka on your system. You can download the latest version of Kafka from the <a href="https://kafka.apache.org/downloads">Apache Kafka website</a>. Once you have downloaded the package, you can extract it and run the following command to start the server:</p>
 <p>bin/kafka-server-start.sh config/server.properties</p>
-<h2 id="creating-a-topic">Creating a Topic</h2>
+<h1 id="creating-a-topic">Creating a Topic</h1>
 <p>Once the server is up and running, we can create a new topic. To do this, run the following command:</p>
 <p>bin/kafka-topics.sh &ndash;create &ndash;zookeeper localhost:2181 &ndash;replication-factor 1 &ndash;partitions 1 &ndash;topic my-topic</p>
 <p>This will create a new topic called <code>my-topic</code> with a single partition and one replica.</p>
-<h2 id="producing-and-consuming-messages">Producing and Consuming Messages</h2>
+<h1 id="producing-and-consuming-messages">Producing and Consuming Messages</h1>
 <p>Now that we have a topic, we can start producing and consuming messages. To produce messages, we can use the <code>kafka-console-producer.sh</code> script. This script allows us to send messages to the topic we created. For example, to send a message to <code>my-topic</code>, we can run the following command:</p>
 <p>bin/kafka-console-producer.sh &ndash;broker-list localhost:9092 &ndash;topic my-topic</p>
 <p>We can then type in our messages and press enter to send them.</p>
 <p>To consume messages, we can use the <code>kafka-console-consumer.sh</code> script. This script allows us to read messages from the topic we created. For example, to read messages from <code>my-topic</code>, we can run the following command:</p>
 <p>bin/kafka-console-consumer.sh &ndash;bootstrap-server localhost:9092 &ndash;topic my-topic &ndash;from-beginning</p>
 <p>This will read all the messages from the beginning of the topic.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h1 id="conclusion">Conclusion</h1>
 <p>In this guide, we discussed the basics of Apache Kafka and how to get started with it. We also discussed how to install it, create a topic, and produce and consume messages.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Getting Started with RabbitMQ</title>
-      <link>https://bytebanter.github.io/posts/0011-getting-started-with-rabbitmq/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0011-getting-started-with-rabbitmq/</guid>
-      <description>Getting Started with RabbitMQ RabbitMQ is an open-source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP). It is written in the Erlang programming language and is designed to reliably manage and route messages between different applications and services. In this article, we will go over the basics of RabbitMQ and how to get started using it.
-What is RabbitMQ? RabbitMQ is a message broker, which is a type of software that acts as a middleman between applications or services that need to communicate with each other.</description>
-      <content:encoded><![CDATA[<h1 id="getting-started-with-rabbitmq">Getting Started with RabbitMQ</h1>
-<p>RabbitMQ is an open-source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP). It is written in the Erlang programming language and is designed to reliably manage and route messages between different applications and services. In this article, we will go over the basics of RabbitMQ and how to get started using it.</p>
-<h2 id="what-is-rabbitmq">What is RabbitMQ?</h2>
+]]></content:encoded></item><item><title>Getting Started with RabbitMQ</title><link>https://bytebanter.github.io/posts/23-01-05-getting-started-with-rabbitmq/</link><pubDate>Thu, 05 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-05-getting-started-with-rabbitmq/</guid><description>RabbitMQ is an open-source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP). It is written in the Erlang programming language and is designed to reliably manage and route messages between different applications and services. In this article, we will go over the basics of RabbitMQ and how to get started using it.
+What is RabbitMQ? RabbitMQ is a message broker, which is a type of software that acts as a middleman between applications or services that need to communicate with each other.</description><content:encoded><![CDATA[<p>RabbitMQ is an open-source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP). It is written in the Erlang programming language and is designed to reliably manage and route messages between different applications and services. In this article, we will go over the basics of RabbitMQ and how to get started using it.</p>
+<h1 id="what-is-rabbitmq">What is RabbitMQ?</h1>
 <p>RabbitMQ is a message broker, which is a type of software that acts as a middleman between applications or services that need to communicate with each other. It is used to facilitate communication between different applications and services, while ensuring that messages are delivered reliably and in the correct order. RabbitMQ is a popular choice for message brokers because it is open-source, highly scalable, and supports a wide variety of protocols, including AMQP, MQTT, and STOMP.</p>
-<h2 id="setting-up-rabbitmq">Setting Up RabbitMQ</h2>
+<h1 id="setting-up-rabbitmq">Setting Up RabbitMQ</h1>
 <p>Setting up RabbitMQ is relatively straightforward. First, you will need to install the RabbitMQ server on the machine where you want to use it. This can be done using the package manager for your operating system, or by downloading the source code and compiling it yourself. Once the server is installed, you will need to create a user account and configure the server to use the correct authentication and security settings.</p>
-<h2 id="connecting-to-rabbitmq">Connecting to RabbitMQ</h2>
+<h1 id="connecting-to-rabbitmq">Connecting to RabbitMQ</h1>
 <p>Once the server is installed and configured, you will need to connect to it. This can be done using a variety of different clients, including the RabbitMQ Management Console, a web-based GUI that allows you to manage and monitor your RabbitMQ server. You can also use the RabbitMQ Java Client Library, which provides an easy-to-use API for connecting to the RabbitMQ server.</p>
-<h2 id="using-rabbitmq">Using RabbitMQ</h2>
+<h1 id="using-rabbitmq">Using RabbitMQ</h1>
 <p>Once you have connected to the RabbitMQ server, you can begin using it to route messages between applications and services. RabbitMQ supports a variety of protocols, including AMQP, MQTT, and STOMP, and provides a variety of features to make message routing easier, such as message queues, exchanges, and bindings.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h1 id="conclusion">Conclusion</h1>
 <p>RabbitMQ is a powerful message broker that can be used to facilitate communication between different applications and services. It is open-source, highly scalable, and supports a wide variety of protocols. Setting up and connecting to RabbitMQ is relatively straightforward, and once you are connected, you can begin using it to route messages between applications and services.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Getting Started with Redis</title>
-      <link>https://bytebanter.github.io/posts/0012-getting-started-with-redis/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0012-getting-started-with-redis/</guid>
-      <description>Getting Started with Redis Redis is an open-source, in-memory data structure store used as a database, cache, and message broker. It is a popular choice for web applications, due to its speed and scalability. In this article, we will discuss the basics of getting started with Redis.
-Installation The first step in getting started with Redis is to install it on your system. Redis is available for most operating systems, including Windows, Mac, and Linux.</description>
-      <content:encoded><![CDATA[<h1 id="getting-started-with-redis">Getting Started with Redis</h1>
-<p>Redis is an open-source, in-memory data structure store used as a database, cache, and message broker. It is a popular choice for web applications, due to its speed and scalability. In this article, we will discuss the basics of getting started with Redis.</p>
-<h2 id="installation">Installation</h2>
+]]></content:encoded></item><item><title>Getting Started with Redis</title><link>https://bytebanter.github.io/posts/23-01-04-getting-started-with-redis/</link><pubDate>Wed, 04 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-04-getting-started-with-redis/</guid><description>Redis is an open-source, in-memory data structure store used as a database, cache, and message broker. It is a popular choice for web applications, due to its speed and scalability. In this article, we will discuss the basics of getting started with Redis.
+Installation The first step in getting started with Redis is to install it on your system. Redis is available for most operating systems, including Windows, Mac, and Linux.</description><content:encoded><![CDATA[<p>Redis is an open-source, in-memory data structure store used as a database, cache, and message broker. It is a popular choice for web applications, due to its speed and scalability. In this article, we will discuss the basics of getting started with Redis.</p>
+<h1 id="installation">Installation</h1>
 <p>The first step in getting started with Redis is to install it on your system. Redis is available for most operating systems, including Windows, Mac, and Linux. Instructions for installing Redis can be found in the <a href="https://redis.io/topics/quickstart">Redis documentation</a>.</p>
-<h2 id="configuration">Configuration</h2>
+<h1 id="configuration">Configuration</h1>
 <p>Once Redis is installed, it must be configured. The configuration file is located in the <code>/etc/redis/redis.conf</code> directory. The configuration options are detailed in the <a href="https://redis.io/topics/config">Redis configuration documentation</a>.</p>
-<h2 id="connecting-to-redis">Connecting to Redis</h2>
+<h1 id="connecting-to-redis">Connecting to Redis</h1>
 <p>Once Redis is installed and configured, you can connect to it using a Redis client. The Redis client is a command-line tool that allows you to interact with Redis. The Redis client is available for most operating systems and can be downloaded from the <a href="https://redis.io/download">Redis download page</a>.</p>
-<h2 id="commands">Commands</h2>
+<h1 id="commands">Commands</h1>
 <p>Once you are connected to Redis, you can start using Redis commands. The Redis command reference is available in the <a href="https://redis.io/commands">Redis command documentation</a>.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h1 id="conclusion">Conclusion</h1>
 <p>Getting started with Redis is easy. Redis is a powerful and versatile data structure store that can be used for a variety of applications. With the right configuration and commands, you can start taking advantage of the power of Redis.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Getting Started with gRPC</title>
-      <link>https://bytebanter.github.io/posts/0013-getting-started-with-grpc/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0013-getting-started-with-grpc/</guid>
-      <description>Getting Started with gRPC gRPC is a modern, open-source remote procedure call (RPC) framework that can run anywhere. It enables client and server applications to communicate transparently, and makes it easier to build connected systems. In this article, we&amp;rsquo;ll take a look at how to get started with gRPC.
-What is gRPC? gRPC is a high-performance, lightweight communication framework designed for making traditional RPC calls, or in other words, procedure calls over the network between client and server applications.</description>
-      <content:encoded><![CDATA[<h1 id="getting-started-with-grpc">Getting Started with gRPC</h1>
-<p>gRPC is a modern, open-source remote procedure call (RPC) framework that can run anywhere. It enables client and server applications to communicate transparently, and makes it easier to build connected systems. In this article, we&rsquo;ll take a look at how to get started with gRPC.</p>
-<h2 id="what-is-grpc">What is gRPC?</h2>
+]]></content:encoded></item><item><title>Getting Started with gRPC</title><link>https://bytebanter.github.io/posts/23-01-03-getting-started-with-grpc/</link><pubDate>Tue, 03 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-03-getting-started-with-grpc/</guid><description>gRPC is a modern, open-source remote procedure call (RPC) framework that can run anywhere. It enables client and server applications to communicate transparently, and makes it easier to build connected systems. In this article, we&amp;rsquo;ll take a look at how to get started with gRPC.
+What is gRPC? gRPC is a high-performance, lightweight communication framework designed for making traditional RPC calls, or in other words, procedure calls over the network between client and server applications.</description><content:encoded><![CDATA[<p>gRPC is a modern, open-source remote procedure call (RPC) framework that can run anywhere. It enables client and server applications to communicate transparently, and makes it easier to build connected systems. In this article, we&rsquo;ll take a look at how to get started with gRPC.</p>
+<h1 id="what-is-grpc">What is gRPC?</h1>
 <p>gRPC is a high-performance, lightweight communication framework designed for making traditional RPC calls, or in other words, procedure calls over the network between client and server applications. It uses HTTP/2 for transport, Protocol Buffers as the interface description language, and provides features such as authentication, bidirectional streaming and flow control, blocking or non-blocking bindings, and cancellation and timeouts.</p>
-<h2 id="setting-up-a-grpc-server">Setting Up a gRPC Server</h2>
+<h1 id="setting-up-a-grpc-server">Setting Up a gRPC Server</h1>
 <p>To set up a gRPC server, you need to define the service interface in a .proto file. This file contains the methods that the server can call, along with the parameters and return types. The .proto file is then compiled into code that is used to generate the server and client stubs.</p>
 <p>Once the .proto file is ready, the server needs to be implemented. This involves writing the code for each of the methods defined in the .proto file. The server code should handle incoming requests, perform the necessary processing, and return the response back to the client.</p>
-<h2 id="setting-up-a-grpc-client">Setting Up a gRPC Client</h2>
+<h1 id="setting-up-a-grpc-client">Setting Up a gRPC Client</h1>
 <p>Once the server is up and running, the client can be set up. The client code should be able to call the methods defined in the .proto file, and handle the response. The client code should also be able to handle errors and timeouts.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h1 id="conclusion">Conclusion</h1>
 <p>gRPC is an efficient, modern communication framework that can be used to build connected systems. To get started with gRPC, you need to define the service interface in a .proto file, implement the server code, and set up the client code.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Getting Started with MySQL</title>
-      <link>https://bytebanter.github.io/posts/0015-getting-started-with-mysql/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0015-getting-started-with-mysql/</guid>
-      <description>Getting Started with MySQL MySQL is a popular open source relational database management system (RDBMS). It is used in many applications, ranging from web applications to embedded systems. In this article, we&amp;rsquo;ll discuss what MySQL is, how to install it, and how to get started using it.
-What is MySQL? MySQL is a relational database management system (RDBMS). It is a software system that allows you to store, manipulate, and query data stored in a database.</description>
-      <content:encoded><![CDATA[<h1 id="getting-started-with-mysql">Getting Started with MySQL</h1>
-<p>MySQL is a popular open source relational database management system (RDBMS). It is used in many applications, ranging from web applications to embedded systems. In this article, we&rsquo;ll discuss what MySQL is, how to install it, and how to get started using it.</p>
-<h2 id="what-is-mysql">What is MySQL?</h2>
+]]></content:encoded></item><item><title>Getting Started with MySQL</title><link>https://bytebanter.github.io/posts/23-01-01-getting-started-with-mysql/</link><pubDate>Sun, 01 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-01-getting-started-with-mysql/</guid><description>MySQL is a popular open source relational database management system (RDBMS). It is used in many applications, ranging from web applications to embedded systems. In this article, we&amp;rsquo;ll discuss what MySQL is, how to install it, and how to get started using it.
+What is MySQL? MySQL is a relational database management system (RDBMS). It is a software system that allows you to store, manipulate, and query data stored in a database.</description><content:encoded><![CDATA[<p>MySQL is a popular open source relational database management system (RDBMS). It is used in many applications, ranging from web applications to embedded systems. In this article, we&rsquo;ll discuss what MySQL is, how to install it, and how to get started using it.</p>
+<h1 id="what-is-mysql">What is MySQL?</h1>
 <p>MySQL is a relational database management system (RDBMS). It is a software system that allows you to store, manipulate, and query data stored in a database. It is used by many applications, from web applications to embedded systems. MySQL is a powerful tool that can help you manage large amounts of data efficiently.</p>
-<h2 id="installing-mysql">Installing MySQL</h2>
+<h1 id="installing-mysql">Installing MySQL</h1>
 <p>MySQL can be installed on a variety of operating systems, including Linux, Windows, and Mac OS. The installation process is relatively straightforward and can be completed in just a few steps.</p>
-<h2 id="getting-started-with-mysql-1">Getting Started with MySQL</h2>
+<h1 id="getting-started-with-mysql">Getting Started with MySQL</h1>
 <p>Once you have MySQL installed, you can begin using it. To get started, you need to create a database and create tables. This can be done using the MySQL command line client or an online GUI such as phpMyAdmin. Once you have created your database and tables, you can begin entering data into the tables.</p>
 <p>MySQL also provides a variety of tools for querying data from the database. These tools allow you to filter, sort, and aggregate data from the database.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h1 id="conclusion">Conclusion</h1>
 <p>MySQL is a powerful and versatile relational database management system. It is used in many applications, from web applications to embedded systems. Installing and getting started with MySQL is relatively straightforward, and it provides a variety of tools for querying data from the database.</p>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

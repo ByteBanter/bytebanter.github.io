@@ -1,34 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>SQL on Byte Banter</title>
-    <link>https://bytebanter.github.io/tags/sql/</link>
-    <description>Recent content in SQL on Byte Banter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright>
-    <lastBuildDate>Fri, 17 Feb 2023 21:06:56 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Getting Started with MySQL</title>
-      <link>https://bytebanter.github.io/posts/0015-getting-started-with-mysql/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0015-getting-started-with-mysql/</guid>
-      <description>Getting Started with MySQL MySQL is a popular open source relational database management system (RDBMS). It is used in many applications, ranging from web applications to embedded systems. In this article, we&amp;rsquo;ll discuss what MySQL is, how to install it, and how to get started using it.
-What is MySQL? MySQL is a relational database management system (RDBMS). It is a software system that allows you to store, manipulate, and query data stored in a database.</description>
-      <content:encoded><![CDATA[<h1 id="getting-started-with-mysql">Getting Started with MySQL</h1>
-<p>MySQL is a popular open source relational database management system (RDBMS). It is used in many applications, ranging from web applications to embedded systems. In this article, we&rsquo;ll discuss what MySQL is, how to install it, and how to get started using it.</p>
-<h2 id="what-is-mysql">What is MySQL?</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>SQL on Byte Banter</title><link>https://bytebanter.github.io/tags/sql/</link><description>Recent content in SQL on Byte Banter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright><lastBuildDate>Sun, 01 Jan 2023 00:05:30 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with MySQL</title><link>https://bytebanter.github.io/posts/23-01-01-getting-started-with-mysql/</link><pubDate>Sun, 01 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-01-getting-started-with-mysql/</guid><description>MySQL is a popular open source relational database management system (RDBMS). It is used in many applications, ranging from web applications to embedded systems. In this article, we&amp;rsquo;ll discuss what MySQL is, how to install it, and how to get started using it.
+What is MySQL? MySQL is a relational database management system (RDBMS). It is a software system that allows you to store, manipulate, and query data stored in a database.</description><content:encoded><![CDATA[<p>MySQL is a popular open source relational database management system (RDBMS). It is used in many applications, ranging from web applications to embedded systems. In this article, we&rsquo;ll discuss what MySQL is, how to install it, and how to get started using it.</p>
+<h1 id="what-is-mysql">What is MySQL?</h1>
 <p>MySQL is a relational database management system (RDBMS). It is a software system that allows you to store, manipulate, and query data stored in a database. It is used by many applications, from web applications to embedded systems. MySQL is a powerful tool that can help you manage large amounts of data efficiently.</p>
-<h2 id="installing-mysql">Installing MySQL</h2>
+<h1 id="installing-mysql">Installing MySQL</h1>
 <p>MySQL can be installed on a variety of operating systems, including Linux, Windows, and Mac OS. The installation process is relatively straightforward and can be completed in just a few steps.</p>
-<h2 id="getting-started-with-mysql-1">Getting Started with MySQL</h2>
+<h1 id="getting-started-with-mysql">Getting Started with MySQL</h1>
 <p>Once you have MySQL installed, you can begin using it. To get started, you need to create a database and create tables. This can be done using the MySQL command line client or an online GUI such as phpMyAdmin. Once you have created your database and tables, you can begin entering data into the tables.</p>
 <p>MySQL also provides a variety of tools for querying data from the database. These tools allow you to filter, sort, and aggregate data from the database.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h1 id="conclusion">Conclusion</h1>
 <p>MySQL is a powerful and versatile relational database management system. It is used in many applications, from web applications to embedded systems. Installing and getting started with MySQL is relatively straightforward, and it provides a variety of tools for querying data from the database.</p>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

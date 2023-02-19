@@ -1,35 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Terraform on Byte Banter</title>
-    <link>https://bytebanter.github.io/tags/terraform/</link>
-    <description>Recent content in Terraform on Byte Banter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright>
-    <lastBuildDate>Fri, 17 Feb 2023 21:06:56 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/terraform/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Getting Started with Terraform</title>
-      <link>https://bytebanter.github.io/posts/0002-getting-started-with-terraform/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0002-getting-started-with-terraform/</guid>
-      <description>Getting Started with Terraform Terraform is an open-source infrastructure as code software tool created by HashiCorp. It enables users to define and provision a data center infrastructure using a high-level configuration language known as Hashicorp Configuration Language (HCL). It is a powerful tool that allows users to build, change, and version control their infrastructure with ease.
-What is Terraform? Terraform is an open-source tool for building, changing, and versioning infrastructure safely and efficiently.</description>
-      <content:encoded><![CDATA[<h1 id="getting-started-with-terraform">Getting Started with Terraform</h1>
-<p>Terraform is an open-source infrastructure as code software tool created by HashiCorp. It enables users to define and provision a data center infrastructure using a high-level configuration language known as Hashicorp Configuration Language (HCL). It is a powerful tool that allows users to build, change, and version control their infrastructure with ease.</p>
-<h2 id="what-is-terraform">What is Terraform?</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Terraform on Byte Banter</title><link>https://bytebanter.github.io/tags/terraform/</link><description>Recent content in Terraform on Byte Banter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright><lastBuildDate>Sat, 14 Jan 2023 00:05:30 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/terraform/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with Terraform</title><link>https://bytebanter.github.io/posts/23-01-14-getting-started-with-terraform/</link><pubDate>Sat, 14 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-14-getting-started-with-terraform/</guid><description>Terraform is an open-source infrastructure as code software tool created by HashiCorp. It enables users to define and provision a data center infrastructure using a high-level configuration language known as Hashicorp Configuration Language (HCL). It is a powerful tool that allows users to build, change, and version control their infrastructure with ease.
+What is Terraform? Terraform is an open-source tool for building, changing, and versioning infrastructure safely and efficiently. It can manage existing and popular service providers as well as custom in-house solutions.</description><content:encoded><![CDATA[<p>Terraform is an open-source infrastructure as code software tool created by HashiCorp. It enables users to define and provision a data center infrastructure using a high-level configuration language known as Hashicorp Configuration Language (HCL). It is a powerful tool that allows users to build, change, and version control their infrastructure with ease.</p>
+<h1 id="what-is-terraform">What is Terraform?</h1>
 <p>Terraform is an open-source tool for building, changing, and versioning infrastructure safely and efficiently. It can manage existing and popular service providers as well as custom in-house solutions. It is a declarative language that allows users to define the desired state of their infrastructure, and Terraform will make the necessary changes to reach the desired state.</p>
-<h2 id="installation">Installation</h2>
+<h1 id="installation">Installation</h1>
 <p>Installation of Terraform is simple and can be done in a few steps. First, download the Terraform binary from the <a href="https://www.hashicorp.com/downloads">HashiCorp website</a>. Once downloaded, extract the binary and add it to your PATH. You can also install Terraform using a package manager.</p>
-<h2 id="writing-configuration-files">Writing Configuration Files</h2>
+<h1 id="writing-configuration-files">Writing Configuration Files</h1>
 <p>Configuration files are written in the HashiCorp Configuration Language (HCL). HCL is a declarative language that allows users to define the desired state of their infrastructure. These files can be written in JSON or YAML, but HCL is the recommended language for writing configuration files.</p>
-<h2 id="provisioning-resources">Provisioning Resources</h2>
+<h1 id="provisioning-resources">Provisioning Resources</h1>
 <p>Once the configuration files are written, Terraform can be used to provision the desired infrastructure. To do this, run the <code>terraform init</code> command to initialize the Terraform environment. Then, run the <code>terraform plan</code> command to review the changes that will be made to the infrastructure. Finally, run the <code>terraform apply</code> command to provision the resources.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h1 id="conclusion">Conclusion</h1>
 <p>Terraform is a powerful open-source tool that allows users to define and provision their infrastructure using a high-level configuration language. It is simple to install and provides a powerful way to provision resources.</p>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

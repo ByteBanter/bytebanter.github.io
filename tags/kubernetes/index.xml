@@ -1,26 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Kubernetes on Byte Banter</title>
-    <link>https://bytebanter.github.io/tags/kubernetes/</link>
-    <description>Recent content in Kubernetes on Byte Banter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright>
-    <lastBuildDate>Fri, 17 Feb 2023 21:06:56 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Getting Started with Kubernetes</title>
-      <link>https://bytebanter.github.io/posts/0001-getting-started-with-kubernetes/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0001-getting-started-with-kubernetes/</guid>
-      <description>Getting Started with Kubernetes Kubernetes is an open-source container-orchestration system for automating deployment, scaling, and management of containerized applications. It is designed to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts. In this article, we will discuss the basics of Kubernetes and how to get started with it.
-What is Kubernetes? Kubernetes is an open-source container-orchestration system for automating deployment, scaling, and management of containerized applications.</description>
-      <content:encoded><![CDATA[<h1 id="getting-started-with-kubernetes">Getting Started with Kubernetes</h1>
-<p>Kubernetes is an open-source container-orchestration system for automating deployment, scaling, and management of containerized applications. It is designed to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts. In this article, we will discuss the basics of Kubernetes and how to get started with it.</p>
-<h2 id="what-is-kubernetes">What is Kubernetes?</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Kubernetes on Byte Banter</title><link>https://bytebanter.github.io/tags/kubernetes/</link><description>Recent content in Kubernetes on Byte Banter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright><lastBuildDate>Sun, 15 Jan 2023 00:05:30 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/kubernetes/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with Kubernetes</title><link>https://bytebanter.github.io/posts/23-01-15-getting-started-with-kubernetes/</link><pubDate>Sun, 15 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-15-getting-started-with-kubernetes/</guid><description>Kubernetes is an open-source container-orchestration system for automating deployment, scaling, and management of containerized applications. It is designed to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts. In this article, we will discuss the basics of Kubernetes and how to get started with it.
+What is Kubernetes? Kubernetes is an open-source container-orchestration system for automating deployment, scaling, and management of containerized applications. It is designed to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts.</description><content:encoded><![CDATA[<p>Kubernetes is an open-source container-orchestration system for automating deployment, scaling, and management of containerized applications. It is designed to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts. In this article, we will discuss the basics of Kubernetes and how to get started with it.</p>
+<h1 id="what-is-kubernetes">What is Kubernetes?</h1>
 <p>Kubernetes is an open-source container-orchestration system for automating deployment, scaling, and management of containerized applications. It is designed to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts. It is a platform for managing containerized applications across multiple hosts, providing basic mechanisms for deployment, maintenance, and scaling of applications.</p>
-<h2 id="benefits-of-kubernetes">Benefits of Kubernetes</h2>
+<h1 id="benefits-of-kubernetes">Benefits of Kubernetes</h1>
 <p>Kubernetes provides a number of benefits for managing containerized applications, including:</p>
 <ul>
 <li>Automated deployment and scaling of applications</li>
@@ -30,14 +12,10 @@ What is Kubernetes? Kubernetes is an open-source container-orchestration system 
 <li>Storage orchestration</li>
 <li>Automated batch execution</li>
 </ul>
-<h2 id="getting-started-with-kubernetes-1">Getting Started with Kubernetes</h2>
+<h1 id="getting-started-with-kubernetes">Getting Started with Kubernetes</h1>
 <p>To get started with Kubernetes, you need to first set up a Kubernetes cluster. This involves setting up the nodes, creating the network, and configuring the nodes. Once the cluster is set up, you can then deploy applications to the cluster.</p>
 <p>To deploy an application to the cluster, you will need to create a deployment manifest. This is a YAML file that describes the application that you want to deploy. This includes details such as the number of replicas, the container images to use, and any environment variables that need to be set.</p>
 <p>Once the deployment manifest is created, you can then deploy the application to the cluster using the kubectl command-line tool. This will create the necessary resources in the cluster and start the application.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h1 id="conclusion">Conclusion</h1>
 <p>Kubernetes is a powerful container-orchestration system that makes it easy to deploy and manage containerized applications. It provides a number of benefits, including automated deployment, scaling, and self-healing capabilities. To get started with Kubernetes, you need to first set up a Kubernetes cluster and then deploy applications to the cluster using the kubectl command-line tool.</p>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

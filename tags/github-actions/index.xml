@@ -1,38 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Github Actions on Byte Banter</title>
-    <link>https://bytebanter.github.io/tags/github-actions/</link>
-    <description>Recent content in Github Actions on Byte Banter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright>
-    <lastBuildDate>Fri, 17 Feb 2023 21:06:56 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/github-actions/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Getting Started with Github Actions</title>
-      <link>https://bytebanter.github.io/posts/0006-getting-started-with-github-actions/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0006-getting-started-with-github-actions/</guid>
-      <description>Getting Started with Github Actions Github Actions is a powerful automation tool that allows you to create custom workflows and automate tasks. In this article, we will discuss how to get started with Github Actions.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Github Actions on Byte Banter</title><link>https://bytebanter.github.io/tags/github-actions/</link><description>Recent content in Github Actions on Byte Banter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright><lastBuildDate>Tue, 10 Jan 2023 00:05:30 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/github-actions/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with Github Actions</title><link>https://bytebanter.github.io/posts/23-01-10-getting-started-with-github-actions/</link><pubDate>Tue, 10 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-10-getting-started-with-github-actions/</guid><description>Github Actions is a powerful automation tool that allows you to create custom workflows and automate tasks. In this article, we will discuss how to get started with Github Actions.
 Prerequisites Before you can start using Github Actions, you need to have a Github account and a repository to work with.
-Setup Once you have a Github account and a repository, you can create a workflow for your repository.</description>
-      <content:encoded><![CDATA[<h1 id="getting-started-with-github-actions">Getting Started with Github Actions</h1>
-<p>Github Actions is a powerful automation tool that allows you to create custom workflows and automate tasks. In this article, we will discuss how to get started with Github Actions.</p>
-<h2 id="prerequisites">Prerequisites</h2>
+Setup Once you have a Github account and a repository, you can create a workflow for your repository. To do this, go to the Actions tab in your repository and click the &amp;ldquo;New workflow&amp;rdquo; button.</description><content:encoded><![CDATA[<p>Github Actions is a powerful automation tool that allows you to create custom workflows and automate tasks. In this article, we will discuss how to get started with Github Actions.</p>
+<h1 id="prerequisites">Prerequisites</h1>
 <p>Before you can start using Github Actions, you need to have a Github account and a repository to work with.</p>
-<h2 id="setup">Setup</h2>
+<h1 id="setup">Setup</h1>
 <p>Once you have a Github account and a repository, you can create a workflow for your repository. To do this, go to the Actions tab in your repository and click the &ldquo;New workflow&rdquo; button.</p>
-<h2 id="writing-your-workflow">Writing Your Workflow</h2>
+<h1 id="writing-your-workflow">Writing Your Workflow</h1>
 <p>The workflow editor will open and you can start writing your workflow. Workflows are written in YAML, and you can use the editor to write your workflow.</p>
-<h2 id="adding-actions">Adding Actions</h2>
+<h1 id="adding-actions">Adding Actions</h1>
 <p>Once your workflow is written, you can add actions to it. Actions are commands that you can run in your workflow. Actions can be found in the Actions tab in your repository.</p>
-<h2 id="testing-your-workflow">Testing Your Workflow</h2>
+<h1 id="testing-your-workflow">Testing Your Workflow</h1>
 <p>Once you have added your actions, you can test your workflow by running it. To do this, go to the Actions tab in your repository and click the &ldquo;Run workflow&rdquo; button.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h1 id="conclusion">Conclusion</h1>
 <p>Github Actions is a powerful automation tool that allows you to create custom workflows and automate tasks. In this article, we discussed how to get started with Github Actions.</p>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

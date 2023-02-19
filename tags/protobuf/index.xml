@@ -1,34 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Protobuf on Byte Banter</title>
-    <link>https://bytebanter.github.io/tags/protobuf/</link>
-    <description>Recent content in Protobuf on Byte Banter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright>
-    <lastBuildDate>Fri, 17 Feb 2023 21:06:56 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/protobuf/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Getting Started with gRPC</title>
-      <link>https://bytebanter.github.io/posts/0013-getting-started-with-grpc/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0013-getting-started-with-grpc/</guid>
-      <description>Getting Started with gRPC gRPC is a modern, open-source remote procedure call (RPC) framework that can run anywhere. It enables client and server applications to communicate transparently, and makes it easier to build connected systems. In this article, we&amp;rsquo;ll take a look at how to get started with gRPC.
-What is gRPC? gRPC is a high-performance, lightweight communication framework designed for making traditional RPC calls, or in other words, procedure calls over the network between client and server applications.</description>
-      <content:encoded><![CDATA[<h1 id="getting-started-with-grpc">Getting Started with gRPC</h1>
-<p>gRPC is a modern, open-source remote procedure call (RPC) framework that can run anywhere. It enables client and server applications to communicate transparently, and makes it easier to build connected systems. In this article, we&rsquo;ll take a look at how to get started with gRPC.</p>
-<h2 id="what-is-grpc">What is gRPC?</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Protobuf on Byte Banter</title><link>https://bytebanter.github.io/tags/protobuf/</link><description>Recent content in Protobuf on Byte Banter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright><lastBuildDate>Tue, 03 Jan 2023 00:05:30 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/protobuf/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with gRPC</title><link>https://bytebanter.github.io/posts/23-01-03-getting-started-with-grpc/</link><pubDate>Tue, 03 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-03-getting-started-with-grpc/</guid><description>gRPC is a modern, open-source remote procedure call (RPC) framework that can run anywhere. It enables client and server applications to communicate transparently, and makes it easier to build connected systems. In this article, we&amp;rsquo;ll take a look at how to get started with gRPC.
+What is gRPC? gRPC is a high-performance, lightweight communication framework designed for making traditional RPC calls, or in other words, procedure calls over the network between client and server applications.</description><content:encoded><![CDATA[<p>gRPC is a modern, open-source remote procedure call (RPC) framework that can run anywhere. It enables client and server applications to communicate transparently, and makes it easier to build connected systems. In this article, we&rsquo;ll take a look at how to get started with gRPC.</p>
+<h1 id="what-is-grpc">What is gRPC?</h1>
 <p>gRPC is a high-performance, lightweight communication framework designed for making traditional RPC calls, or in other words, procedure calls over the network between client and server applications. It uses HTTP/2 for transport, Protocol Buffers as the interface description language, and provides features such as authentication, bidirectional streaming and flow control, blocking or non-blocking bindings, and cancellation and timeouts.</p>
-<h2 id="setting-up-a-grpc-server">Setting Up a gRPC Server</h2>
+<h1 id="setting-up-a-grpc-server">Setting Up a gRPC Server</h1>
 <p>To set up a gRPC server, you need to define the service interface in a .proto file. This file contains the methods that the server can call, along with the parameters and return types. The .proto file is then compiled into code that is used to generate the server and client stubs.</p>
 <p>Once the .proto file is ready, the server needs to be implemented. This involves writing the code for each of the methods defined in the .proto file. The server code should handle incoming requests, perform the necessary processing, and return the response back to the client.</p>
-<h2 id="setting-up-a-grpc-client">Setting Up a gRPC Client</h2>
+<h1 id="setting-up-a-grpc-client">Setting Up a gRPC Client</h1>
 <p>Once the server is up and running, the client can be set up. The client code should be able to call the methods defined in the .proto file, and handle the response. The client code should also be able to handle errors and timeouts.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h1 id="conclusion">Conclusion</h1>
 <p>gRPC is an efficient, modern communication framework that can be used to build connected systems. To get started with gRPC, you need to define the service interface in a .proto file, implement the server code, and set up the client code.</p>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

@@ -1,65 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Linux on Byte Banter</title>
-    <link>https://bytebanter.github.io/tags/linux/</link>
-    <description>Recent content in Linux on Byte Banter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright>
-    <lastBuildDate>Fri, 17 Feb 2023 21:06:56 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Getting Started with Ansible</title>
-      <link>https://bytebanter.github.io/posts/0003-getting-started-with-ansible/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0003-getting-started-with-ansible/</guid>
-      <description>Getting Started with Ansible Ansible is an automation and configuration management tool that enables users to easily deploy, configure, and manage applications in their IT environment. It is an open-source platform that is easy to use and provides a wide range of features. In this article, we will discuss how to get started with Ansible.
-Prerequisites Before getting started with Ansible, there are a few prerequisites that need to be met.</description>
-      <content:encoded><![CDATA[<h1 id="getting-started-with-ansible">Getting Started with Ansible</h1>
-<p>Ansible is an automation and configuration management tool that enables users to easily deploy, configure, and manage applications in their IT environment. It is an open-source platform that is easy to use and provides a wide range of features. In this article, we will discuss how to get started with Ansible.</p>
-<h2 id="prerequisites">Prerequisites</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Linux on Byte Banter</title><link>https://bytebanter.github.io/tags/linux/</link><description>Recent content in Linux on Byte Banter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright><lastBuildDate>Fri, 13 Jan 2023 00:05:30 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with Ansible</title><link>https://bytebanter.github.io/posts/23-01-13-getting-started-with-ansible/</link><pubDate>Fri, 13 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-13-getting-started-with-ansible/</guid><description>Ansible is an automation and configuration management tool that enables users to easily deploy, configure, and manage applications in their IT environment. It is an open-source platform that is easy to use and provides a wide range of features. In this article, we will discuss how to get started with Ansible.
+Prerequisites Before getting started with Ansible, there are a few prerequisites that need to be met. First, you will need to have an operating system that is supported by Ansible.</description><content:encoded><![CDATA[<p>Ansible is an automation and configuration management tool that enables users to easily deploy, configure, and manage applications in their IT environment. It is an open-source platform that is easy to use and provides a wide range of features. In this article, we will discuss how to get started with Ansible.</p>
+<h1 id="prerequisites">Prerequisites</h1>
 <p>Before getting started with Ansible, there are a few prerequisites that need to be met. First, you will need to have an operating system that is supported by Ansible. Currently, this includes Linux, macOS, and Windows. Additionally, you will need to have Python installed on your system.</p>
-<h2 id="installation">Installation</h2>
+<h1 id="installation">Installation</h1>
 <p>Once you have the prerequisites set up, you can move on to installing Ansible. To do this, you can use your operating system&rsquo;s package manager. On most Linux distributions, this will be <code>apt</code>, <code>yum</code>, or <code>dnf</code>. For macOS, you can use <code>brew</code> or <code>port</code>. Lastly, for Windows, you can use <code>chocolatey</code>.</p>
-<h2 id="configuration">Configuration</h2>
+<h1 id="configuration">Configuration</h1>
 <p>Once you have Ansible installed, you will need to configure it. This can be done by creating an <code>ansible.cfg</code> file in the root of your project. This file should contain the following configuration options:</p>
 <ul>
 <li><code>host_key_checking</code> - This option should be set to <code>False</code> to disable host key checking.</li>
 <li><code>inventory</code> - This option should be set to the path of your inventory file.</li>
 <li><code>remote_user</code> - This option should be set to the username that Ansible will use to connect to remote hosts.</li>
 </ul>
-<h2 id="writing-playbooks">Writing Playbooks</h2>
+<h1 id="writing-playbooks">Writing Playbooks</h1>
 <p>Now that Ansible is installed and configured, you can start writing playbooks. Playbooks are written in YAML and contain instructions for Ansible to execute. They can be used to configure systems, deploy applications, and much more.</p>
-<h2 id="running-playbooks">Running Playbooks</h2>
+<h1 id="running-playbooks">Running Playbooks</h1>
 <p>Once you have written your playbook, you can run it using the <code>ansible-playbook</code> command. This command will execute the instructions in the playbook and apply the changes to the target system.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h1 id="conclusion">Conclusion</h1>
 <p>In this article, we discussed how to get started with Ansible. We looked at the prerequisites, installation, configuration, and writing playbooks. Finally, we discussed how to run playbooks.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Getting Started with Linux</title>
-      <link>https://bytebanter.github.io/posts/0014-getting-started-with-linux/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0014-getting-started-with-linux/</guid>
-      <description>Getting Started with Linux Linux is an open-source operating system that has been around since the early 90s. It is a powerful and reliable operating system that is used by millions of people around the world. It is a great choice for those who want to get started with a powerful and stable operating system.
-Installing Linux The first step to getting started with Linux is to install it on your computer.</description>
-      <content:encoded><![CDATA[<h1 id="getting-started-with-linux">Getting Started with Linux</h1>
-<p>Linux is an open-source operating system that has been around since the early 90s. It is a powerful and reliable operating system that is used by millions of people around the world. It is a great choice for those who want to get started with a powerful and stable operating system.</p>
-<h2 id="installing-linux">Installing Linux</h2>
+]]></content:encoded></item><item><title>Getting Started with Linux</title><link>https://bytebanter.github.io/posts/23-01-02-getting-started-with-linux/</link><pubDate>Mon, 02 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-02-getting-started-with-linux/</guid><description>Linux is an open-source operating system that has been around since the early 90s. It is a powerful and reliable operating system that is used by millions of people around the world. It is a great choice for those who want to get started with a powerful and stable operating system.
+Installing Linux The first step to getting started with Linux is to install it on your computer. This can be done in a variety of ways, depending on your hardware and the version of Linux you want to use.</description><content:encoded><![CDATA[<p>Linux is an open-source operating system that has been around since the early 90s. It is a powerful and reliable operating system that is used by millions of people around the world. It is a great choice for those who want to get started with a powerful and stable operating system.</p>
+<h1 id="installing-linux">Installing Linux</h1>
 <p>The first step to getting started with Linux is to install it on your computer. This can be done in a variety of ways, depending on your hardware and the version of Linux you want to use. The most common method is to download an ISO image of the Linux distribution you want to use and burn it to a CD or DVD. You can then boot your computer from the CD or DVD and install the Linux operating system.</p>
-<h2 id="setting-up-your-system">Setting Up Your System</h2>
+<h1 id="setting-up-your-system">Setting Up Your System</h1>
 <p>Once you have Linux installed, you will need to set up your system. This includes setting up your user accounts, configuring the system settings, and installing any applications you need. You can use the graphical user interface to make most of these changes, or you can use the command line if you are more comfortable with it.</p>
-<h2 id="using-the-command-line">Using the Command Line</h2>
+<h1 id="using-the-command-line">Using the Command Line</h1>
 <p>The command line is a powerful tool that can be used to do almost anything on a Linux system. It is a powerful way to manage and configure your system, and it is also a great way to learn about Linux. There are many commands that can be used to do various tasks, and it is important to learn about them so you can use them effectively.</p>
-<h2 id="using-the-graphical-user-interface">Using the Graphical User Interface</h2>
+<h1 id="using-the-graphical-user-interface">Using the Graphical User Interface</h1>
 <p>The graphical user interface (GUI) is the most common way to interact with a Linux system. It is a graphical way to manage and configure your system, and it is also a great way to learn about Linux. The GUI is easy to use and can be used to do most tasks quickly and easily.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h1 id="conclusion">Conclusion</h1>
 <p>Linux is a powerful and reliable operating system that is used by millions of people around the world. It is a great choice for those who want to get started with a powerful and stable operating system. Installing Linux is easy, and setting up your system is also easy. The command line and the graphical user interface are both great ways to manage and configure your system, and they are also great ways to learn about Linux.</p>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

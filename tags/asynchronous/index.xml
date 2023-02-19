@@ -1,25 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Asynchronous on Byte Banter</title>
-    <link>https://bytebanter.github.io/tags/asynchronous/</link>
-    <description>Recent content in Asynchronous on Byte Banter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright>
-    <lastBuildDate>Fri, 17 Feb 2023 21:06:56 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/asynchronous/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Getting Started with Apache Kafka</title>
-      <link>https://bytebanter.github.io/posts/0010-getting-started-with-apache-kafka/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0010-getting-started-with-apache-kafka/</guid>
-      <description>Getting Started with Apache Kafka Apache Kafka is an open-source streaming platform used for building real-time data pipelines and streaming applications. It is a distributed and fault-tolerant message broker that enables communication between producers, consumers, and other applications. In this guide, we will discuss the basics of Kafka and how to get started with it.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Asynchronous on Byte Banter</title><link>https://bytebanter.github.io/tags/asynchronous/</link><description>Recent content in Asynchronous on Byte Banter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>**[ByteBanter.com](https://www.bytebanter.com)**</copyright><lastBuildDate>Fri, 06 Jan 2023 00:05:30 +0530</lastBuildDate><atom:link href="https://bytebanter.github.io/tags/asynchronous/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with Apache Kafka</title><link>https://bytebanter.github.io/posts/23-01-06-getting-started-with-apache-kafka/</link><pubDate>Fri, 06 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-06-getting-started-with-apache-kafka/</guid><description>Apache Kafka is an open-source streaming platform used for building real-time data pipelines and streaming applications. It is a distributed and fault-tolerant message broker that enables communication between producers, consumers, and other applications. In this guide, we will discuss the basics of Kafka and how to get started with it.
 Prerequisites Before getting started, you should have a basic understanding of the following concepts:
-Distributed systems Message brokers Streaming applications You should also have a working knowledge of Java, as Kafka is written in Java.</description>
-      <content:encoded><![CDATA[<h1 id="getting-started-with-apache-kafka">Getting Started with Apache Kafka</h1>
-<p>Apache Kafka is an open-source streaming platform used for building real-time data pipelines and streaming applications. It is a distributed and fault-tolerant message broker that enables communication between producers, consumers, and other applications. In this guide, we will discuss the basics of Kafka and how to get started with it.</p>
-<h2 id="prerequisites">Prerequisites</h2>
+Distributed systems Message brokers Streaming applications You should also have a working knowledge of Java, as Kafka is written in Java.</description><content:encoded><![CDATA[<p>Apache Kafka is an open-source streaming platform used for building real-time data pipelines and streaming applications. It is a distributed and fault-tolerant message broker that enables communication between producers, consumers, and other applications. In this guide, we will discuss the basics of Kafka and how to get started with it.</p>
+<h1 id="prerequisites">Prerequisites</h1>
 <p>Before getting started, you should have a basic understanding of the following concepts:</p>
 <ul>
 <li>Distributed systems</li>
@@ -27,47 +9,32 @@ Distributed systems Message brokers Streaming applications You should also have 
 <li>Streaming applications</li>
 </ul>
 <p>You should also have a working knowledge of Java, as Kafka is written in Java.</p>
-<h2 id="installing-apache-kafka">Installing Apache Kafka</h2>
+<h1 id="installing-apache-kafka">Installing Apache Kafka</h1>
 <p>The first step is to install Apache Kafka on your system. You can download the latest version of Kafka from the <a href="https://kafka.apache.org/downloads">Apache Kafka website</a>. Once you have downloaded the package, you can extract it and run the following command to start the server:</p>
 <p>bin/kafka-server-start.sh config/server.properties</p>
-<h2 id="creating-a-topic">Creating a Topic</h2>
+<h1 id="creating-a-topic">Creating a Topic</h1>
 <p>Once the server is up and running, we can create a new topic. To do this, run the following command:</p>
 <p>bin/kafka-topics.sh &ndash;create &ndash;zookeeper localhost:2181 &ndash;replication-factor 1 &ndash;partitions 1 &ndash;topic my-topic</p>
 <p>This will create a new topic called <code>my-topic</code> with a single partition and one replica.</p>
-<h2 id="producing-and-consuming-messages">Producing and Consuming Messages</h2>
+<h1 id="producing-and-consuming-messages">Producing and Consuming Messages</h1>
 <p>Now that we have a topic, we can start producing and consuming messages. To produce messages, we can use the <code>kafka-console-producer.sh</code> script. This script allows us to send messages to the topic we created. For example, to send a message to <code>my-topic</code>, we can run the following command:</p>
 <p>bin/kafka-console-producer.sh &ndash;broker-list localhost:9092 &ndash;topic my-topic</p>
 <p>We can then type in our messages and press enter to send them.</p>
 <p>To consume messages, we can use the <code>kafka-console-consumer.sh</code> script. This script allows us to read messages from the topic we created. For example, to read messages from <code>my-topic</code>, we can run the following command:</p>
 <p>bin/kafka-console-consumer.sh &ndash;bootstrap-server localhost:9092 &ndash;topic my-topic &ndash;from-beginning</p>
 <p>This will read all the messages from the beginning of the topic.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h1 id="conclusion">Conclusion</h1>
 <p>In this guide, we discussed the basics of Apache Kafka and how to get started with it. We also discussed how to install it, create a topic, and produce and consume messages.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Getting Started with RabbitMQ</title>
-      <link>https://bytebanter.github.io/posts/0011-getting-started-with-rabbitmq/</link>
-      <pubDate>Fri, 17 Feb 2023 21:06:56 +0530</pubDate>
-      
-      <guid>https://bytebanter.github.io/posts/0011-getting-started-with-rabbitmq/</guid>
-      <description>Getting Started with RabbitMQ RabbitMQ is an open-source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP). It is written in the Erlang programming language and is designed to reliably manage and route messages between different applications and services. In this article, we will go over the basics of RabbitMQ and how to get started using it.
-What is RabbitMQ? RabbitMQ is a message broker, which is a type of software that acts as a middleman between applications or services that need to communicate with each other.</description>
-      <content:encoded><![CDATA[<h1 id="getting-started-with-rabbitmq">Getting Started with RabbitMQ</h1>
-<p>RabbitMQ is an open-source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP). It is written in the Erlang programming language and is designed to reliably manage and route messages between different applications and services. In this article, we will go over the basics of RabbitMQ and how to get started using it.</p>
-<h2 id="what-is-rabbitmq">What is RabbitMQ?</h2>
+]]></content:encoded></item><item><title>Getting Started with RabbitMQ</title><link>https://bytebanter.github.io/posts/23-01-05-getting-started-with-rabbitmq/</link><pubDate>Thu, 05 Jan 2023 00:05:30 +0530</pubDate><guid>https://bytebanter.github.io/posts/23-01-05-getting-started-with-rabbitmq/</guid><description>RabbitMQ is an open-source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP). It is written in the Erlang programming language and is designed to reliably manage and route messages between different applications and services. In this article, we will go over the basics of RabbitMQ and how to get started using it.
+What is RabbitMQ? RabbitMQ is a message broker, which is a type of software that acts as a middleman between applications or services that need to communicate with each other.</description><content:encoded><![CDATA[<p>RabbitMQ is an open-source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP). It is written in the Erlang programming language and is designed to reliably manage and route messages between different applications and services. In this article, we will go over the basics of RabbitMQ and how to get started using it.</p>
+<h1 id="what-is-rabbitmq">What is RabbitMQ?</h1>
 <p>RabbitMQ is a message broker, which is a type of software that acts as a middleman between applications or services that need to communicate with each other. It is used to facilitate communication between different applications and services, while ensuring that messages are delivered reliably and in the correct order. RabbitMQ is a popular choice for message brokers because it is open-source, highly scalable, and supports a wide variety of protocols, including AMQP, MQTT, and STOMP.</p>
-<h2 id="setting-up-rabbitmq">Setting Up RabbitMQ</h2>
+<h1 id="setting-up-rabbitmq">Setting Up RabbitMQ</h1>
 <p>Setting up RabbitMQ is relatively straightforward. First, you will need to install the RabbitMQ server on the machine where you want to use it. This can be done using the package manager for your operating system, or by downloading the source code and compiling it yourself. Once the server is installed, you will need to create a user account and configure the server to use the correct authentication and security settings.</p>
-<h2 id="connecting-to-rabbitmq">Connecting to RabbitMQ</h2>
+<h1 id="connecting-to-rabbitmq">Connecting to RabbitMQ</h1>
 <p>Once the server is installed and configured, you will need to connect to it. This can be done using a variety of different clients, including the RabbitMQ Management Console, a web-based GUI that allows you to manage and monitor your RabbitMQ server. You can also use the RabbitMQ Java Client Library, which provides an easy-to-use API for connecting to the RabbitMQ server.</p>
-<h2 id="using-rabbitmq">Using RabbitMQ</h2>
+<h1 id="using-rabbitmq">Using RabbitMQ</h1>
 <p>Once you have connected to the RabbitMQ server, you can begin using it to route messages between applications and services. RabbitMQ supports a variety of protocols, including AMQP, MQTT, and STOMP, and provides a variety of features to make message routing easier, such as message queues, exchanges, and bindings.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h1 id="conclusion">Conclusion</h1>
 <p>RabbitMQ is a powerful message broker that can be used to facilitate communication between different applications and services. It is open-source, highly scalable, and supports a wide variety of protocols. Setting up and connecting to RabbitMQ is relatively straightforward, and once you are connected, you can begin using it to route messages between applications and services.</p>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>
